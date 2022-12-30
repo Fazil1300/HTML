@@ -1,0 +1,48 @@
+Three Layers of Web
+	Structure Layer
+	Presentation Layer
+	Behaviour Layer
+
+
+Structure Layer
+	Represents content of the web page
+	HTML is responsible for this layer
+
+Presentation Layer
+	Decides look and feel of the web page
+	CSS  is responsible for this layer
+
+Behaviour Layer
+	Decides reaction for user interaction
+	JavaScript is responsible for this layer
+
+What is web page?
+ A file which holds the information is web page.
+
+Purpose of creating web page
+	To share the information universally in a standard form without any software restrictions
+
+Anatomy of Tag
+	Tag
+		<p></p>
+	Element
+		<p>Hello</p>
+	Attribrute - Name:Value pair 
+		<p id="msg">Hello</p>
+
+Prerequisites of creating web page
+	Browser
+	Code Editor
+
+firstPage.html
+<html>
+    <head>
+        <title>This is my first page</title>
+    </head>
+    <body>
+        <h1>Welcome to Learning HTML</h1>
+    </body>
+</html>
+ 
+
+
